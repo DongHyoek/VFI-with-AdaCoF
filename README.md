@@ -2,7 +2,7 @@
 
 <h1 align="center"> VideoFrameInterpolation </h1>
 
-<h3 align="center"> Capstone Project  (2022-09 ~ 2023-09) </h3>
+<h3 align="center"> D. Seo, M. Ko, S. Lee, J. Park, "Kernel-Based Video Frame Interpolation Techniques Using Feature Map Differencing," KIPS Transactions on Software and Data Engineering, vol. 13, no. 1, pp. 17-27, 2024. DOI: https://doi.org/10.3745/KTSDE.2024.13.1.17. </h3>
 
 <br/><br/>
 `VideoFrameInterpolation` **is the Image interpolation is the process of estimating new pixel values in an image based on the values of surrounding pixels.
